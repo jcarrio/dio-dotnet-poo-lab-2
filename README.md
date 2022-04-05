@@ -10,7 +10,7 @@ Julio Carrió
 
 Linkedin:  [br.linkedin.com/in/julio-carrio](http://br.linkedin.com/in/julio-carrio)
 
-WebSite:  [www.carrio.com.br](https://www.carrio.com.br)
+WebSite:  [www.carrio.com.br](http://www.carrio.com.br)
 
 Twitter:  [@juliocarrio](https://twitter.com/juliocarrio)
 
