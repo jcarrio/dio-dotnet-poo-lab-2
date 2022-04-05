@@ -6,16 +6,12 @@
 
 ## Contato
 
-Eliézer Zarpelão
+Julio Carrió
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
+Linkedin:  [br.linkedin.com/in/julio-carrio](http://br.linkedin.com/in/julio-carrio)
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
+WebSite:  [www.carrio.com.br](https://www.carrio.com.br)
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
+Twitter:  [@juliocarrio](https://twitter.com/juliocarrio)
 
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+Github:  [github.com/jcarrio](https://github.com/jcarrio)
